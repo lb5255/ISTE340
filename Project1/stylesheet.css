@@ -1,0 +1,26 @@
+body {
+    background-color: #77E68C;
+    font-family: 'Aleo';
+}
+
+#wrapper {
+    margin: 5em auto;
+    width: 42vw;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+#mainDiv{
+    padding: 1em;
+    background-color: #A9FDAC;
+}
+
+button {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: #FF6B6B;
+    padding: 1em;
+    color: white;
+}
